@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="AlomBhaiERtest">
+
+<test thread-count="6" name="all">
+
+<classes>
+
+<class name="TestNG_FW.classAnnot"></class>
+<class name="TestNG_FW.CreateAcct"></class>
+<class name="TestNG_FW.GroupingTest"></class>
+<class name="TestNG_FW.Grrr"></class>
+<class name="TestNG_FW.rajibAlom"></class>
+<class name="TestNG_FW.TestF1"></class>
+
+</classes>
+
+</test>
+</suite>
+
